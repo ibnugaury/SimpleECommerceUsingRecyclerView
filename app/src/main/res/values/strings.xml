@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">E-Commerce</string>
+    <string name="categories">Categories</string>
+    <string name="product">Product</string>
+    <string name="anything">Anything</string>
+    <string name="add_to_cart">Add to cart!</string>
+    <string name="description_donec_sed_odio_dui_nullam_quis_risus_eget_urna_mollis_ornare_vel_eu_leo_nullam_id_dolor_id_nibh_ultricies_vehicula_ut_id_elit_vivamus_sagittis_lacus_vel_augue_laoreet_rutrum_faucibus_dolor_auctor_donec_id_elit_non_mi_porta_gravida_at_eget_metus_maecenas_faucibus_mollis_interdum_duis_mollis_est_non_commodo_luctus_nisi_erat_porttitor_ligula_eget_lacinia_odio_sem_nec_elit_aenean_lacinia_bibendum_nulla_sed_consectetur_nullam_id_dolor_id_nibh_ultricies_vehicula_ut_id_elit">Description: Donec sed odio dui. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Aenean lacinia bibendum nulla sed consectetur. Nullam id dolor id nibh ultricies vehicula ut id elit.</string>
+</resources>
